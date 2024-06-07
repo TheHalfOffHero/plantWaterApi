@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("plantWaterApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90517db02ed336cc3978ae48d5edde940e8aa6f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("plantWaterApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("plantWaterApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
